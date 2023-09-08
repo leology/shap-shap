@@ -1,0 +1,5 @@
+# ignore the venv folder
+venv/
+
+#ignore IDEA settings
+.idea/
